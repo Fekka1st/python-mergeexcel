@@ -6,3 +6,7 @@ I hope it can be made into a Windows desktop application that can be accessed an
 by adding several features
 <br/><br/>
 I would be very grateful if anyone wants to help me realize this application 😇
+
+<h2>HOW TO USE APP? </h2>
+<p>Link Youtube : "Comingsoon"</p>
+
